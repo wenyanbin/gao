@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9HD
+http://1k75c34199.vicp.fun:4022/udp/239.49.8.53:9814
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10HD
+http://1k75c34199.vicp.fun:4022/udp/239.49.8.54:9818
