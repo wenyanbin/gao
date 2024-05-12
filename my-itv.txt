@@ -21,7 +21,7 @@ CCTV-16UHD,http://1k75c34199.vicp.fun:4022/udp/239.49.0.193:8000
 CCTV-17HD,http://1k75c34199.vicp.fun:4022/udp/239.49.8.52:9810
 CGTN-俄语HD,http://1k75c34199.vicp.fun:4022/udp/239.49.0.111:8000
 CCTV-电视指南HD,http://1k75c34199.vicp.fun:4022/udp/239.49.8.84:8000
-CCTV-4KHDR,http://1k75c34199.vicp.fun:4022/udp/239.49.8.38:8000
+CCTV-4KHDR,http://1k75c34199.vicp.fun:4022/udp/239.49.0.82:8000
 湖南卫视HD,http://1k75c34199.vicp.fun:4022/udp/239.49.8.12:9418
 地方,#genre#
 CCTV-怀旧剧场HD,http://1k75c34199.vicp.fun:4022/udp/239.49.8.91:8000
