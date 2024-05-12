@@ -156,4 +156,5 @@ CCTV-文化精品HD,http://1k75c34199.vicp.fun:4022/udp/239.49.8.90:8000
 游戏风云HD,http://1k75c34199.vicp.fun:4022/udp/239.49.8.41:8012
 欢笑剧场HD,http://1k75c34199.vicp.fun:4022/udp/239.49.8.47:8060
 欢笑剧场4K UHD,http://1k75c34199.vicp.fun:4022/udp/239.49.8.106:8000
-第一财经,http://1k75c34199.vicp.fun:4022/udp/239.49.1.168:6000
+五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
