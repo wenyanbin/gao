@@ -131,10 +131,6 @@ http://1k75c34199.vicp.fun:4022/udp/239.49.0.178:8000
 http://1k75c34199.vicp.fun:4022/udp/239.49.0.180:8000
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
 http://1k75c34199.vicp.fun:4022/udp/239.49.0.233:8000
-#EXTINF:-1 group-title="卫视",大湾区卫视
-http://1k75c34199.vicp.fun:4022/udp/239.49.0.234:8000
-#EXTINF:-1 group-title="卫视",山东教育卫视
-http://1k75c34199.vicp.fun:4022/udp/239.49.0.235:8000
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
 http://1k75c34199.vicp.fun:4022/udp/239.49.0.245:8000
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
@@ -287,6 +283,10 @@ http://1k75c34199.vicp.fun:4022/udp/239.49.8.193:8000
 http://1k75c34199.vicp.fun:4022/udp/239.49.0.205:8000
 #EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="地方",文物宝库HD
 http://1k75c34199.vicp.fun:4022/udp/239.49.0.209:8000
+#EXTINF:-1 group-title="卫视",大湾区卫视 
+http://1k75c34199.vicp.fun:4022/udp/239.49.0.234:8000 
+#EXTINF:-1 group-title="卫视",山东教育卫视 
+http://1k75c34199.vicp.fun:4022/udp/239.49.0.235:8000
 #EXTINF:-1 group-title="地方",都市剧场HD
 http://1k75c34199.vicp.fun:4022/udp/239.49.8.45:8044
 #EXTINF:-1 group-title="地方",动漫秀场HD
