@@ -43,6 +43,8 @@ http://1k75c34199.vicp.fun:4022/udp/239.49.0.109:8000
 http://1k75c34199.vicp.fun:4022/udp/239.49.0.193:8000
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17HD
 http://1k75c34199.vicp.fun:4022/udp/239.49.8.52:9810
+#EXTINF:-1 tvg-id="4k" tvg-name="CCTV4k" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4k
+http://1k75c34199.vicp.fun:4022/udp/239.49.0.82:8000
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN-俄语HD
 http://1k75c34199.vicp.fun:4022/udp/239.49.0.111:8000
 #EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="地方",CCTV-怀旧剧场HD
