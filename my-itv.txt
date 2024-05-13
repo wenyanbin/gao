@@ -1,4 +1,4 @@
-央视,#genre#
+）央视,#genre#
 CCTV-1HD,http://1k75c34199.vicp.fun:4022/udp/239.49.8.19:9614
 CCTV-2HD,http://1k75c34199.vicp.fun:4022/udp/239.49.8.50:9802
 CCTV-3HD,http://1k75c34199.vicp.fun:4022/udp/239.49.8.74:8000
@@ -20,6 +20,7 @@ CCTV-16UHD,http://1k75c34199.vicp.fun:4022/udp/239.49.0.109:8000
 CCTV-16UHD,http://1k75c34199.vicp.fun:4022/udp/239.49.0.193:8000
 CCTV-17HD,http://1k75c34199.vicp.fun:4022/udp/239.49.8.52:9810
 CCTV-4K,http://1k75c34199.vicp.fun:4022/udp/239.49.0.82:8000
+CCTV-4K,http://nxlj.cn:1688/udp/239.45.0.55:5140
 CGTN-俄语HD,http://1k75c34199.vicp.fun:4022/udp/239.49.0.111:8000
 CCTV-电视指南HD,http://1k75c34199.vicp.fun:4022/udp/239.49.8.84:8000
 CCTV-怀旧剧场HD,http://1k75c34199.vicp.fun:4022/udp/239.49.8.91:8000
@@ -32,10 +33,16 @@ CCTV-兵器科技HD,http://1k75c34199.vicp.fun:4022/udp/239.49.8.88:8000
 CCTV-女性时尚HD,http://1k75c34199.vicp.fun:4022/udp/239.49.8.93:8000
 CCTV-央视台球HD,http://1k75c34199.vicp.fun:4022/udp/239.49.8.32:8000
 CETV-1HD,http://1k75c34199.vicp.fun:4022/udp/239.49.8.115:8000
+CETV-4,http://nxlj.cn:1688/udp/239.45.0.21:5140
+CETV-4,http://nxlj.cn:1688/udp/239.45.1.243:5140
 CCTV-高尔夫·网球HD,http://1k75c34199.vicp.fun:4022/udp/239.49.8.86:8000
 CCTV-文化精品HD,http://1k75c34199.vicp.fun:4022/udp/239.49.8.90:8000
 CHC家庭影院,http://wh.bh3bbb.com:40000/rtp/239.253.230.152:8000
+CHC家庭,http://nxlj.cn:1688/udp/239.45.1.22:5140
+CHC家庭,http://nxlj.cn:1688/udp/239.45.0.40:5140
 CHC动作电影,http://wh.bh3bbb.com:40000/rtp/239.253.230.153:8000
+CHC动作,http://nxlj.cn:1688/udp/239.45.0.41:5140
+CHC影迷,http://nxlj.cn:1688/udp/239.45.0.42:5140
 CHC高清电影,http://wh.bh3bbb.com:40000/rtp/239.253.230.154:8000
 地方,#genre#
 苏州新闻综合,http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
@@ -159,3 +166,15 @@ CHC高清电影,http://wh.bh3bbb.com:40000/rtp/239.253.230.154:8000
 游戏风云HD,http://1k75c34199.vicp.fun:4022/udp/239.49.8.41:8012
 欢笑剧场HD,http://1k75c34199.vicp.fun:4022/udp/239.49.8.47:8060
 欢笑剧场4K UHD,http://1k75c34199.vicp.fun:4022/udp/239.49.8.106:8000
+五星体育,http://nxlj.cn:1688/udp/239.45.3.210:5140
+五星体育,http://nxlj.cn:1688/udp/239.45.3.112:5140
+五星体育,http://rance.eicp.net:9981/udp/239.45.3.210:5140
+第一财经,http://nxlj.cn:1688/udp/239.45.3.111:5140
+第一财经,http://nxlj.cn:1688/udp/239.45.3.211:5140
+第一财经,http://rance.eicp.net:9981/udp/239.45.3.211:5140
+东方财经,http://nxlj.cn:1688/udp/239.45.0.17:5140
+东方财经,http://rance.eicp.net:9981/udp/239.45.0.17:5140
+法制天地,http://nxlj.cn:1688/udp/239.45.1.192:5140
+东方影视,http://nxlj.cn:1688/udp/239.45.3.245:5140
+东方影视,http://rance.eicp.net:9981/udp/239.45.3.237:5140
+新闻综合,http://rance.eicp.net:9981/udp/239.45.3.209:5140
