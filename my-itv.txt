@@ -1,4 +1,4 @@
-）央视,#genre#
+央视,#genre#
 CCTV-1HD,http://1k75c34199.vicp.fun:4022/udp/239.49.8.19:9614
 CCTV-2HD,http://1k75c34199.vicp.fun:4022/udp/239.49.8.50:9802
 CCTV-3HD,http://1k75c34199.vicp.fun:4022/udp/239.49.8.74:8000
