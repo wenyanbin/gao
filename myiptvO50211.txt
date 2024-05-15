@@ -1644,8 +1644,6 @@ DETV,http://do.dsp.mp.mi4.xyz:8888/udp/239.76.248.20:1234
 凤凰中文,http://do.dsp.mp.mi4.xyz:8888/udp/239.76.253.134:9000
 凤凰电影,http://mail.petzhu.top:7000/udp/239.254.201.1:5214
 凤凰中文,http://mail.petzhu.top:7000/udp/239.254.201.2:5226
-耀才财经,https://epg.pw/stream/4eb5076e2c3d0b2d37160044f2676c072abecaaa7b3e9ddc24230af1e824d4cb.m3u8
-耀才财经,https://epg.pw/stream/22c49293812a53154c679325dd65258944d73c180c1c47d19ac3a339ce95292b.m3u8
 安徽电信,#genre#
 CCTV1,http://hcf1314.synology.me:4022/udp/238.1.78.166:7200
 CCTV2,http://hcf1314.synology.me:4022/udp/238.1.78.235:7752
