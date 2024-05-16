@@ -1633,6 +1633,7 @@ IPTV4K,http://do.dsp.mp.mi4.xyz:8888/udp/239.76.245.35:1234
 DETV,http://do.dsp.mp.mi4.xyz:8888/udp/239.76.255.20:9000
 DETV,http://do.dsp.mp.mi4.xyz:8888/udp/239.76.248.20:1234
 香港,#genre#
+凤凰中文,http://sss918.synology.me:8000/rtp/233.50.200.191:5140
 凤凰中文,http://e2.woc.iiiya.cn:8888/udp/239.61.5.184:1025
 凤凰中文,http://e2.woc.iiiya.cn:8888/udp/239.61.2.184:9092
 凤凰中文,http://e2.woc.iiiya.cn:8888/udp/239.61.5.214:1025
