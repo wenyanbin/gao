@@ -44,6 +44,7 @@ CCTV文化精品HD,http://192.168.50.211:4022/udp/239.49.8.90:8000
 CHC家庭影院,http://wh.bh3bbb.com:40000/rtp/239.253.230.152:8000
 CHC家庭影院,http://nxlj.cn:1688/udp/239.45.1.22:5140
 CHC家庭影院,http://nxlj.cn:1688/udp/239.45.0.40:5140
+CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
 CHC动作电影,http://wh.bh3bbb.com:40000/rtp/239.253.230.153:8000
 CHC动作电影,http://nxlj.cn:1688/udp/239.45.0.41:5140
 CHC高清电影,http://nxlj.cn:1688/udp/239.45.0.42:5140
