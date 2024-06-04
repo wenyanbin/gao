@@ -62,6 +62,10 @@ CCTV9,http://wh.bh3bbb.com:40000/rtp/239.253.230.79:8000
 CCTV10,http://wh.bh3bbb.com:40000/rtp/239.253.230.236:8000
 CCTV11,http://wh.bh3bbb.com:40000/rtp/239.253.230.12:8000
 CCTV12,http://wh.bh3bbb.com:40000/rtp/239.253.230.237:8000
+CCTV13,http://home.huaz.site:4000/udp/239.21.2.3:5002
+CCTV13,http://iptv.huaz.site:4000/udp/239.21.2.3:5002
+CCTV13,http://suntao.asia:18888/udp/239.21.2.3:5002
+CCTV13,http://dx.pcc.icu:8123/udp/239.21.2.3:5002
 CCTV13,http://wh.bh3bbb.com:40000/rtp/239.253.230.14:8000
 CCTV14,http://wh.bh3bbb.com:40000/rtp/239.253.230.238:8000
 CCTV15,http://wh.bh3bbb.com:40000/rtp/239.253.230.16:8000
