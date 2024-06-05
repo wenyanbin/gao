@@ -413,6 +413,7 @@ CCTV15,http://plex.home.yulei.online:9999/rtp/226.0.2.32:8168
 CCTV17,http://plex.home.yulei.online:9999/rtp/226.0.2.207:9568
 CHC家庭影院,http://plex.home.yulei.online:9999/rtp/226.0.2.240:9820
 地方,#genre#
+苏州新闻综合,https://liveshowbak2.kan0512.com/norecord/tv_csztv1.m3u8
 苏州新闻综合,http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
 苏州社会经济,http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
 苏州文化生活,http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
