@@ -1,3 +1,6 @@
+测试,#genre#
+CCTV13,http://180.103.201.82:4022/udp/239.49.8.109:8000
+CCTV13,http://xjf1314.asuscomm.cn:4022/udp/239.49.8.109:8000
 央视,#genre#
 CCTV1,http://xjf1314.asuscomm.cn:4022/udp/239.49.8.19:9614
 CCTV2,http://xjf1314.asuscomm.cn:4022/udp/239.49.8.50:9802
