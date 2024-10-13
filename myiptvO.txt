@@ -178,7 +178,9 @@ CCTV12社会与法,http://www.baopiqi.top:4022/udp/239.45.3.10:5140
 CCTV13新闻,http://www.baopiqi.top:4022/udp/239.45.1.198:5140 
 CCTV14少儿,http://www.baopiqi.top:4022/udp/239.45.3.23:5140 
 CCTV15音乐,http://www.baopiqi.top:4022/udp/239.45.1.200:5140 
+CCTV16,http://dsm.52nantong.net:8800/rtp/239.49.8.31:8000
 CCTV-17农村农业,http://www.baopiqi.top:4022/udp/239.45.3.52:5140 
+CCTV4K,http://iptv.dcn88.live:6668/udp/239.77.0.194:5146
 CGTN,http://www.baopiqi.top:4022/udp/239.45.1.194:5140 
 动漫秀场,http://www.baopiqi.top:4022/udp/239.45.3.134:5140 
 生活时尚,http://www.baopiqi.top:4022/udp/239.45.3.132:5140 
