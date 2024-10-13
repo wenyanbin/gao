@@ -17,6 +17,7 @@ CCTV14,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV4K,http://iptv.dcn88.live:6668/udp/239.77.0.174:5146
 CHC影迷电影,http://www.williamlovesally.com:8010/udp/228.0.0.233:6108
 CHC动作电影,http://www.williamlovesally.com:8010/udp/228.0.0.212:6108
 CHC家庭影院,http://www.williamlovesally.com:8010/udp/228.0.0.211:6108
