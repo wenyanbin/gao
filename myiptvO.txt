@@ -1349,8 +1349,12 @@ CCTV14,http://1k75c34199.vicp.fun:4022/udp/239.49.8.56:9826
 CCTV15,http://1k75c34199.vicp.fun:4022/udp/239.49.0.128:8000
 CCTV16,http://1k75c34199.vicp.fun:4022/udp/239.49.8.31:8000
 CCTV16超高清,http://1k75c34199.vicp.fun:4022/udp/239.49.0.109:8000
-CCTV16超高清,http://1k75c34199.vicp.fun:4022/udp/239.49.0.193:8000
+CCTV16超高清,http://1k75c34199.vicp.fun:5000/itv/bestzb/5000000008000023254
 CCTV17,http://1k75c34199.vicp.fun:4022/udp/239.49.8.52:9810
+CCTV4K,http://iptv.dcn88.live:6668/udp/239.77.1.180:5146
+CCTV4K,http://1k75c34199.vicp.fun:4022/udp/239.49.0.82:8000
+CCTV4K,http://1k75c34199.vicp.fun:5000/tptv/G_CCTV-4K-HD?type=proxy
+CCTV8K,http://1k75c34199.vicp.fun:5000/ysp/cctv8k
 CGTN-俄语,http://1k75c34199.vicp.fun:4022/udp/239.49.0.111:8000
 CCTV怀旧剧场,http://1k75c34199.vicp.fun:4022/udp/239.49.8.91:8000
 CCTV第一剧场,http://1k75c34199.vicp.fun:4022/udp/239.49.8.94:8000
@@ -16598,4 +16602,4 @@ BTV国际,http://magoo.love:7777/udp/239.3.1.235:8000
 广西卫视,http://magoo.love:7777/udp/239.3.1.39:8300
 新疆卫视,http://magoo.love:7777/udp/239.3.1.48:8160
 河南卫视,http://magoo.love:7777/udp/239.3.1.27:8128
-甘肃卫视,http://magoo.love:7777/udp/239.3.1.49:818
+甘肃卫视
